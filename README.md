@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> 
 <br><br>
-
+ 
 🥄🥄 (Good)
 <br><br>
 <img src="https://img.shields.io/badge/Python-3673a5?style=flat-square&logo=python&logoColor=white"/>
