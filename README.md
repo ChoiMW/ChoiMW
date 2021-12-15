@@ -21,20 +21,20 @@
 ## 🥄 Tech Stack
 <br>
 
-🥄🥄🥄 (Great)
+⭐ ⭐ ⭐ (Great)
 <br><br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> 
 <br><br>
  
-🥄🥄 (Good)
+⭐ ⭐ (Good)
 <br><br>
 <img src="https://img.shields.io/badge/Python-3673a5?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
 <br><br>
 
-🥄 (Well)
+⭐ (Well)
 <br><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
