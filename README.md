@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/ChoiMW" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/ChoiMW" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://www.notion.so/Minwook-Choi-d828d8d9f6284fd387d9eb45833ccac0" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://dacon.io/myprofile/427209/home" target="_blank"><img src="https://img.shields.io/badge/-DACON-004B93?style=for-the-badge"/></a>
 <a href="https://www.instagram.com/mi_nuk_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
